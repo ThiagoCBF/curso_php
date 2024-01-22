@@ -1,2 +1,2 @@
 # curso_php
- curso de php do Matheus Battisti
+ Curso de php do Matheus Battisti
