@@ -16,3 +16,4 @@
     }
 
     echo "Saiu do loop <br>";
+    
