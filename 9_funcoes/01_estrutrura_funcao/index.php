@@ -1,7 +1,0 @@
-<?php
-
-    function teste() {
-
-        // código
-        
-    }
