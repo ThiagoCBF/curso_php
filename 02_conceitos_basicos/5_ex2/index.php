@@ -6,7 +6,7 @@
 // Variável para armazenar idade
  $idade = 19;
 
-// Variável para armazenar altura
+// Variável para armazenar altura.
  $altura = "1.87";
 
  echo $nome;
