@@ -1,6 +1,10 @@
 .navbar-brand img {
     width: 50px;
   }
+
+.navbar-nav {
+    justify-content: left;
+}
   
   #main-title {
     text-align: center;
